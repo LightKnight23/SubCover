@@ -24,4 +24,4 @@ You can find the latest version of the APK on the **[Releases page](https://gith
 
 ## Bug Reports
 
-Please report any bugs or request features using the **[Issues tab](https://github.com/LightKnight23/SubtitleCoverOverlay-App/issues)**.
+Please report any bugs or request features using the **[Issues tab](https://github.com/LightKnight23/SubCover/issues)**.
