@@ -20,7 +20,7 @@ The app runs a background service to display the overlay. It requires the "Draw 
 
 ## Downloads
 
-You can find the latest version of the APK on the **[Releases page](https://github.com/LightKnight23/SubtitleCoverOverlay-App/releases)**.
+You can find the latest version of the APK on the **[Releases page](https://github.com/LightKnight23/SubCover/releases)**.
 
 ## Bug Reports
 
