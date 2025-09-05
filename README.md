@@ -1,6 +1,6 @@
 # SubCover
 
-This is the official download page for the Subtitle Cover Overlay Android app.
+This is the official download page for the SubCover Android app.
 
 ### Focus on the action, not the text. 
 
